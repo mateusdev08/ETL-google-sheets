@@ -1,0 +1,7 @@
+__localhost
+__pycache__
+.vscode
+venv
+.env
+client_secret.json
+token.json
